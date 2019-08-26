@@ -1,0 +1,22 @@
+{
+  "name": "knexExp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "mocha test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.19.1",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.1",
+    "body-parser": "1.19.0",
+    "mocha": "6.2.0",
+    "chai": "4.2.0"
+  }
+}
